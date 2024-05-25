@@ -2,21 +2,7 @@
 <html>
 <head>
     <title>Self-Assessment Questionnaire</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        .question-container {
-            margin-bottom: 20px;
-        }
-        .question-title {
-            font-weight: bold;
-        }
-        .result-container {
-            margin-top: 30px;
-        }
-    </style>
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
     <h1>Self-Assessment Questionnaire</h1>
