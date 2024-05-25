@@ -1,0 +1,68 @@
+/* Importing the fonts */
+@import url('https://fonts.googleapis.com/css2?family=Glacial+Indifference&family=Poppins:wght@500&display=swap');
+
+/* General Styles */
+body {
+    font-family: 'Glacial Indifference', sans-serif;
+    background-color: #FFFFFF;
+    color: #10213C;
+    margin: 20px;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    color: #10213C;
+}
+
+.question-container {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #BAE0C6;
+    border-radius: 5px;
+    background-color: #F5F5F5;
+}
+
+.question-title {
+    font-weight: bold;
+    color: #10213C;
+}
+
+input[type="radio"] {
+    margin-right: 10px;
+}
+
+button {
+    background-color: #3B8EA5;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2A6674;
+}
+
+.result-container {
+    margin-top: 30px;
+    padding: 20px;
+    border: 1px solid #D6DE23;
+    border-radius: 5px;
+    background-color: #BAE0C6;
+}
+
+.result-container h2 {
+    font-family: 'Poppins', sans-serif;
+    color: #10213C;
+}
+
+.result-container p {
+    font-family: 'Glacial Indifference', sans-serif;
+    color: #10213C;
+}
+
+.result-container p strong {
+    color: #3B8EA5;
+}
