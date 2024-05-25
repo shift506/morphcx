@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-    const apiKey = '107428557849904226832';
+    const apiKey = 'AIzaSyCRfb6nR-F5WVfEwQL7qF5MdEZ291gzd68';
     const spreadsheetId = 'https://docs.google.com/spreadsheets/d/1rBua1qewXNcV2Ige29jhvC5qdLtBfDQSKBuGJaqEfsg/edit#gid=241407808';
     const range = 'Questions!A:D';
 
